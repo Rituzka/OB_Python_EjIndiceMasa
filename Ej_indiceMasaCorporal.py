@@ -6,3 +6,5 @@ masaCorp = peso / (estatura * estatura)
 
 print("Tu indice de masa corporal es: "+ str(round(masaCorp,2)))
 Tu indice de masa corporal es: 24.27
+print("tu indice de masa corporal es: ", round(masaCorp,2))
+tu indice de masa corporal es:  24.27
